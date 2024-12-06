@@ -1,4 +1,4 @@
 [submodule "sarralle"]
 	path = sarralle
 	url = git@git.vauxoo.com:vauxoo/sarralle.git
-	branch = 15.0
+	branch = 18.0
